@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   cloud-application:
   - apiVersion: v2
+    appVersion: 1.0.35
+    created: "2022-01-20T03:19:21.456342089Z"
+    description: A Helm chart for Kubernetes
+    digest: e4f2223b7f0e12bc64f1ffbf176914dae534b2b793165210ca03a127bf00b40f
+    name: cloud-application
+    type: application
+    urls:
+    - https://bullyrooks.github.io/helm-charts/cloud-application-1.0.35.tgz
+    version: 1.0.35
+  - apiVersion: v2
     appVersion: 1.0.33
     created: "2022-01-20T02:32:24.23099733Z"
     description: A Helm chart for Kubernetes
@@ -221,4 +231,4 @@ entries:
     urls:
     - https://bullyrooks.github.io/helm-charts/cloud-application-1.0.3.tgz
     version: 1.0.3
-generated: "2022-01-20T02:32:24.230312119Z"
+generated: "2022-01-20T03:19:21.455648897Z"
