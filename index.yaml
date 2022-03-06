@@ -964,6 +964,16 @@ entries:
     version: 0.0.1
   message-repository:
   - apiVersion: v2
+    appVersion: 0.0.16
+    created: "2022-03-06T20:24:59.775832401Z"
+    description: A Helm chart for Kubernetes
+    digest: 1d77bf7b420cd8f4ca1a55fd2816180822319c7b6d33b55d2fc5d0b24921560e
+    name: message-repository
+    type: application
+    urls:
+    - https://bullyrooks.github.io/helm-charts/message-repository-0.0.16.tgz
+    version: 0.0.16
+  - apiVersion: v2
     appVersion: 0.0.15
     created: "2022-03-06T20:14:32.630089169Z"
     description: A Helm chart for Kubernetes
@@ -1073,4 +1083,4 @@ entries:
     urls:
     - https://bullyrooks.github.io/helm-charts/message-repository-0.0.5.tgz
     version: 0.0.5
-generated: "2022-03-06T20:14:32.628877185Z"
+generated: "2022-03-06T20:24:59.775191493Z"
