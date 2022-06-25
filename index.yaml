@@ -1623,4 +1623,15 @@ entries:
     urls:
     - https://bullyrooks.github.io/helm-charts/message-repository-0.0.5.tgz
     version: 0.0.5
-generated: "2022-03-27T17:35:36.839302405Z"
+  test-service-one:
+  - apiVersion: v2
+    appVersion: v0.0.0
+    created: "2022-06-25T16:24:05.952593112Z"
+    description: A Helm chart for Kubernetes
+    digest: afa8f5d31e49730490d59c896a600b23786269dc07ddd0f1918e7bc29ed91e1b
+    name: test-service-one
+    type: application
+    urls:
+    - https://bullyrooks.github.io/helm-charts/test-service-one-v0.0.0.tgz
+    version: v0.0.0
+generated: "2022-06-25T16:24:05.950892893Z"
