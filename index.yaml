@@ -834,9 +834,9 @@ entries:
   message-generator:
   - apiVersion: v2
     appVersion: v0.0.85
-    created: "2022-07-13T14:25:46.266643192Z"
+    created: "2022-07-15T02:14:30.782159486Z"
     description: A Helm chart for Kubernetes
-    digest: 8894bce1531ca300d7bffed19448e72b9a2ae0259aa55ed0cc72cef60dca8d24
+    digest: 77c1475aeef0897d0f8ac0272a8a3a4dcff6cc595215d0b04bf468ff844bea40
     name: message-generator
     type: application
     urls:
@@ -1745,4 +1745,4 @@ entries:
     urls:
     - https://bullyrooks.github.io/helm-charts/test-service-two-v0.0.0.tgz
     version: v0.0.0
-generated: "2022-07-13T14:25:46.264772485Z"
+generated: "2022-07-15T02:14:30.780303369Z"
