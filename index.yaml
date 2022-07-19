@@ -1748,9 +1748,9 @@ entries:
   test-service-one:
   - apiVersion: v2
     appVersion: v0.0.0
-    created: "2022-07-16T20:04:20.956476157Z"
+    created: "2022-07-19T01:42:50.634511156Z"
     description: A Helm chart for Kubernetes
-    digest: d7d85ab26515d14466777b63da108b49f8d00e52ce5ece22cc34c78552a82373
+    digest: 34ea6be8b2ac74828c265a479ca7abe19ff134767b63f48e09e1cf42e029bdf2
     name: test-service-one
     type: application
     urls:
@@ -1778,4 +1778,4 @@ entries:
     urls:
     - https://bullyrooks.github.io/helm-charts/test-service-two-v0.0.0.tgz
     version: v0.0.0
-generated: "2022-07-16T20:04:20.953743798Z"
+generated: "2022-07-19T01:42:50.633110548Z"
