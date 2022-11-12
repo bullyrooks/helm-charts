@@ -1723,6 +1723,17 @@ entries:
     urls:
     - https://bullyrooks.github.io/helm-charts/message-repository-0.0.5.tgz
     version: 0.0.5
+  metrics-calculator:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-11-12T23:22:21.687642891Z"
+    description: A Helm chart for Kubernetes
+    digest: 26cdd9cfe82e98fd8fd3a58f14ad9fe31511c941452995da2ee5d32ec1271d30
+    name: metrics-calculator
+    type: application
+    urls:
+    - https://bullyrooks.github.io/helm-charts/metrics-calculator-1.0.0.tgz
+    version: 1.0.0
   test-service-five:
   - apiVersion: v2
     appVersion: v0.0.0
@@ -1788,4 +1799,4 @@ entries:
     urls:
     - https://bullyrooks.github.io/helm-charts/test-service-two-v0.0.0.tgz
     version: v0.0.0
-generated: "2022-11-06T20:52:03.43464168Z"
+generated: "2022-11-12T23:22:21.687072517Z"
