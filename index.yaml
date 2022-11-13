@@ -831,6 +831,17 @@ entries:
     urls:
     - https://bullyrooks.github.io/helm-charts/cloud-application-1.0.3.tgz
     version: 1.0.3
+  listing-search:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-11-13T01:01:49.585749988Z"
+    description: A Helm chart for Kubernetes
+    digest: 9bad90522c167cb65bf93b6f103f8483812adb9e28e328f805e0cbdc02f31083
+    name: listing-search
+    type: application
+    urls:
+    - https://bullyrooks.github.io/helm-charts/listing-search-1.0.0.tgz
+    version: 1.0.0
   message-generator:
   - apiVersion: v2
     appVersion: v0.0.85
@@ -1799,4 +1810,4 @@ entries:
     urls:
     - https://bullyrooks.github.io/helm-charts/test-service-two-v0.0.0.tgz
     version: v0.0.0
-generated: "2022-11-12T23:22:21.687072517Z"
+generated: "2022-11-13T01:01:49.584363553Z"
